@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wondeltd/php-client": "^3.1",
+        "phpunit/php-timer": "^6.0"
+    }
+}
